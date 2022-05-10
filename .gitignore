@@ -24,6 +24,7 @@
 # Ignore drupal core (if not versioning drupal sources)
 /core
 /modules/README.txt
+/modules/contrib
 /profiles/README.txt
 /sites/README.txt
 /sites/example.sites.php
@@ -38,7 +39,6 @@
 /.gitattributes
 /.htaccess
 /autoload.php
-/composer.json
 /composer.lock
 /example.gitignore
 /index.php
@@ -47,3 +47,5 @@
 /robots.txt
 /update.php
 /web.config
+/.ht.router.php
+/INSTALL.txt
